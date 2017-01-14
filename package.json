@@ -106,6 +106,7 @@
     "redux": "3.5.2",
     "redux-logger": "2.6.1",
     "redux-promise": "0.5.3",
-    "reselect": "2.5.3"
+    "reselect": "2.5.3",
+    "semantic-ui": "2.2.7"
   }
 }
